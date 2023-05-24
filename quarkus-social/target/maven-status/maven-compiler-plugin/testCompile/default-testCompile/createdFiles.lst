@@ -1,0 +1,6 @@
+io\github\malbano\GreetingResourceTest.class
+io\github\malbano\rest\FollowerResourceTest.class
+io\github\malbano\rest\PostResourceTest.class
+io\github\malbano\rest\UserResourceTest.class
+io\github\malbano\GreetingResourceIT.class
+META-INF\panache-archive.marker
